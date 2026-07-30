@@ -1,2 +1,3 @@
-# Decodelabs_Internship_Projects
-All project I carried out during decode labs Internship 
+# Decodelabs_Internship_Projects_1
+
+Data Cleaning and Preparetion
